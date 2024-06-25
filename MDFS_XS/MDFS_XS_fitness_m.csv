@@ -1,0 +1,37 @@
+male genotype,fitness
+"A1B1,A1B1",1
+"A1B1,A1B2",1
+"A1B1,A2B1",-ham*sam + 1
+"A1B1,A2B2",-ham*sam + 1
+"A1B1,A3B1",-ham*sam + 1
+"A1B1,A3B2",-ham*sam + 1
+"A1B1,A4B1",-hαm*sαm + 1
+"A1B1,A4B2",-hαm*sαm + 1
+"A1B2,A1B2",1
+"A1B2,A2B1",-ham*sam + 1
+"A1B2,A2B2",-ham*sam + 1
+"A1B2,A3B1",-ham*sam + 1
+"A1B2,A3B2",-ham*sam + 1
+"A1B2,A4B1",-hαm*sαm + 1
+"A1B2,A4B2",-hαm*sαm + 1
+"A2B1,A2B1",1 - sam
+"A2B1,A2B2",1 - sam
+"A2B1,A3B1",1 - sam
+"A2B1,A3B2",1 - sam
+"A2B1,A4B1",1 - saαm
+"A2B1,A4B2",1 - saαm
+"A2B2,A2B2",1 - sam
+"A2B2,A3B1",1 - sam
+"A2B2,A3B2",1 - sam
+"A2B2,A4B1",1 - saαm
+"A2B2,A4B2",1 - saαm
+"A3B1,A3B1",1 - sam
+"A3B1,A3B2",1 - sam
+"A3B1,A4B1",1 - saαm
+"A3B1,A4B2",1 - saαm
+"A3B2,A3B2",1 - sam
+"A3B2,A4B1",1 - saαm
+"A3B2,A4B2",1 - saαm
+"A4B1,A4B1",1 - sαm
+"A4B1,A4B2",1 - sαm
+"A4B2,A4B2",1 - sαm

@@ -1,0 +1,11 @@
+female genotype,fitness
+A1A1,1
+A1A2,-haf*saf + 1
+A1A3,-haf*saf + 1
+A1A4,-hαf*sαf + 1
+A2A2,1 - saf
+A2A3,1 - saf
+A2A4,1 - saαf
+A3A3,1 - saf
+A3A4,1 - saαf
+A4A4,1 - sαf

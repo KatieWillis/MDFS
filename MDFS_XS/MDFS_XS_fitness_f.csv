@@ -1,0 +1,37 @@
+female genotype,fitness
+"A1B1,A1B1",1
+"A1B1,A1B2",1
+"A1B1,A2B1",-haf*saf + 1
+"A1B1,A2B2",-haf*saf + 1
+"A1B1,A3B1",-haf*saf + 1
+"A1B1,A3B2",-haf*saf + 1
+"A1B1,A4B1",-hαf*sαf + 1
+"A1B1,A4B2",-hαf*sαf + 1
+"A1B2,A1B2",1
+"A1B2,A2B1",-haf*saf + 1
+"A1B2,A2B2",-haf*saf + 1
+"A1B2,A3B1",-haf*saf + 1
+"A1B2,A3B2",-haf*saf + 1
+"A1B2,A4B1",-hαf*sαf + 1
+"A1B2,A4B2",-hαf*sαf + 1
+"A2B1,A2B1",1 - saf
+"A2B1,A2B2",1 - saf
+"A2B1,A3B1",1 - saf
+"A2B1,A3B2",1 - saf
+"A2B1,A4B1",1 - saαf
+"A2B1,A4B2",1 - saαf
+"A2B2,A2B2",1 - saf
+"A2B2,A3B1",1 - saf
+"A2B2,A3B2",1 - saf
+"A2B2,A4B1",1 - saαf
+"A2B2,A4B2",1 - saαf
+"A3B1,A3B1",1 - saf
+"A3B1,A3B2",1 - saf
+"A3B1,A4B1",1 - saαf
+"A3B1,A4B2",1 - saαf
+"A3B2,A3B2",1 - saf
+"A3B2,A4B1",1 - saαf
+"A3B2,A4B2",1 - saαf
+"A4B1,A4B1",1 - sαf
+"A4B1,A4B2",1 - sαf
+"A4B2,A4B2",1 - sαf

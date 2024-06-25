@@ -1,0 +1,11 @@
+male genotype,fitness
+A1A1,1
+A1A2,-ham*sam + 1
+A1A3,-ham*sam + 1
+A1A4,-hαm*sαm + 1
+A2A2,1 - sam
+A2A3,1 - sam
+A2A4,1 - saαm
+A3A3,1 - sam
+A3A4,1 - saαm
+A4A4,1 - sαm
