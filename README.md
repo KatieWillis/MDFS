@@ -1,10 +1,10 @@
 # MDFS
 ___
-This repository contains jupyter and mathematica notebooks associated with the manuscript "..." currently available on BioRXiv. The notebooks and associated files contain code needed to reproduce the analysis, figures and tables associated with the modelling aspect of the manuscript. 
+This repository contains jupyter and mathematica notebooks associated with the manuscript "A dominant female sterility system to control Anopheles gambiae". The notebooks and associated files contain code needed to reproduce the analysis, figures and tables associated with the modelling aspect of the manuscript. 
 
-Katie Willis1 & Austin Burt1
+Anna Strampelli1, Katie Willis1, Hannah Robyn Gulliford1, Matt Gribble1, Barbara Fasulo1, Austin Burt1, Andrea Crisanti1 & Federica Bernardini1*. 
 
-1 Department of Life Sciences, Imperial College London, London, UK.
+1 Department of Life Sciences, Imperial College London, London, UK. 
 
 
 For correspondence regarding the code: katie.willis@imperial.ac.uk
